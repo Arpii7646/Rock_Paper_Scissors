@@ -8,5 +8,7 @@ Scissors cuts Paper.
 Paper covers Rock. 
 
 Features:
+
 User Input: The player can choose between Rock, Paper, or Scissors. 
+
 Random Computer Choice: The computer randomly selects Rock, Paper, or Scissors.
