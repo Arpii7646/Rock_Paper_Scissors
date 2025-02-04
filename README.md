@@ -2,7 +2,9 @@
 The classic Rock-Paper-Scissors game, where a player competes against the computer. The game follows these simple rules:  
 
 Rock crushes Scissors.
+
 Scissors cuts Paper.
+
 Paper covers Rock. 
 
 Features:
